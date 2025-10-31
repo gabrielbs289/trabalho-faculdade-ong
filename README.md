@@ -1,6 +1,6 @@
 # Esperança Viva - Front-end (Entrega I)
 
-**Autor:** [Escreva seu nome aqui]
+**Autor:** FELIPE GABRIEL CIRINO DOS SANTOS
 **Disciplina:** Desenvolvimento Front-end
 **Entrega:** Experiência Prática I
 
